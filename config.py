@@ -2,7 +2,7 @@
 BOT = "5123029165:AAHyiY-wWuFQJbDqKg19lm44CZiDXrYTY.."
 bot_addr = "/tb"
 sitelink = "https://bot....com"
-ADMINS = [100000000]
+ADMINS = [10000000]
 yreq = {
     'ru': 'Ваш запрос:',
     'en': 'Your request:',
